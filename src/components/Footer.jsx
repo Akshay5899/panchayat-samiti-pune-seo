@@ -18,7 +18,7 @@ function Footer() {
           <span>|</span>
           <a href="#">वेब माहिती व्यवस्थापन</a>
           <span>|</span>
-          <a href="#">FAQ</a>
+          <a href="#">FAQs</a>
 
         </div>
       </div>
@@ -57,7 +57,7 @@ function Footer() {
             {/* Important Links */}
             <div className="col-12 col-sm-6 col-lg-3">
 
-              <h6>महत्वाच्या लिंकs</h6>
+              <h6>महत्वाच्या लिंक</h6>
 
               <ul>
                 <li><a href="https://www.india.gov.in/" target="blank">भारत सरकार</a></li>
