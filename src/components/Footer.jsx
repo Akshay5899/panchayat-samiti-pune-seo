@@ -18,7 +18,7 @@ function Footer() {
           <span>|</span>
           <a href="#">वेब माहिती व्यवस्थापन</a>
           <span>|</span>
-          <a href="#">FAQs</a>
+          <a href="#">FAQ</a>
 
         </div>
       </div>
