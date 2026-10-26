@@ -40,7 +40,7 @@ function Footer() {
 
                 <div>
                   <a className="sitetitle" href="/"><strong>पंचायत समिती पुणे</strong></a>
-                  <a className="sitetitle" href="/"><h5>Panchayat Samiti Pune</h5></a>
+                  <a className="sitetitle" href="/"><h5>Panchayats Samiti Pune</h5></a>
                 </div>
 
               </div>
